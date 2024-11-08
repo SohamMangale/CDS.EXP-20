@@ -2,9 +2,9 @@
 ## AIM
 To study and implement Sorting Algorithm
 
-### Selection sort
-### Insertion sort
-### Bubble sort
+#### Selection sort
+#### Insertion sort
+#### Bubble sort
 ## SOFTWARE USED
 VS Code
 
