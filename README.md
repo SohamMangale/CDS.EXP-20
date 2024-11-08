@@ -2,7 +2,7 @@
 ## AIM
 To study and implement Sorting Algorithm
 
-#### Selection sort
+### Selection sort
 ### Insertion sort
 ### Bubble sort
 ## SOFTWARE USED
