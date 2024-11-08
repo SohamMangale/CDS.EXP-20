@@ -29,7 +29,7 @@ Space Complexity: O(1) (in-place sorting).
 bubble_sort
 
 ## CODE & OUTPUT
-CODE A:
+## CODE A:
 ~~~
 //soham
 //entc B1
@@ -86,7 +86,7 @@ int main() {
 ## OUTPUT A:
 ![image](https://github.com/user-attachments/assets/5516efe2-f719-4ab8-9713-a4cc233f41ff)
 
-### CODE B:
+## CODE B:
 ~~~
 //soham
 //entc B1
@@ -133,7 +133,7 @@ int main() {
 ~~~
 ## OUTPUT B:
 Screenshot 2024-10-16 091156
-CODE C:
+## CODE C:
 ~~~
 //soham
 //entc B1
