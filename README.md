@@ -132,7 +132,8 @@ int main() {
 }
 ~~~
 ## OUTPUT B:
-Screenshot 2024-10-16 091156
+![image](https://github.com/user-attachments/assets/7796e481-5a06-46ad-87e7-cbac82f32161)
+
 ## CODE C:
 ~~~
 //soham
