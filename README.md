@@ -86,6 +86,7 @@ int main() {
 ## OUTPUT A:
 Screenshot 2024-10-16 091116
 CODE B:
+~~~
 //soham
 //entc B1
 //2307012384
