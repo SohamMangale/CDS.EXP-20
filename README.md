@@ -84,8 +84,9 @@ int main() {
 }
 ~~~
 ## OUTPUT A:
-Screenshot 2024-10-16 091116
-CODE B:
+![image](https://github.com/user-attachments/assets/5516efe2-f719-4ab8-9713-a4cc233f41ff)
+
+### CODE B:
 ~~~
 //soham
 //entc B1
